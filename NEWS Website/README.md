@@ -43,6 +43,6 @@ News data is fetched using [NewsAPI](https://newsapi.org/).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](.././LICENSE) file for details.
 
 #### Feel free to contribute, enhance, and modify this project. Your feedback and pull requests are welcome! If you encounter any issues or have suggestions, please create an issue in the repository.
